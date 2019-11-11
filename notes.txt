@@ -1,0 +1,5 @@
+I have been following the instructions from this website: https://www.youtube.com/watch?v=SWYqp7iY_Tc to learn how to use Git and GitHub.
+
+THe instructor is using Windows which is good as I am also learning how to use Git on a Windows OS.
+
+I have learned how to use basic git commands for making a direcrory a version controlled repository, how to open a path to commit files to the repository, how to use .gitignore to select files and directories I with to exclude from my repository, how to make branches so that I can make modifications to files whch do not affect the originals, how to merge the branch with the master branch.
